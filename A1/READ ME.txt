@@ -1,0 +1,5 @@
+Pablo du Pontavice, 260674100
+
+Notable decisions: 
+The hingejoint rotation range I decided to put from -360 to 360 just because I knew that in my animation I wanted there to be constant rotation.
+I had to reduce the size of the viewing window to record since I kept on getting an error due to too many bytes.
